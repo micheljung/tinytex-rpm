@@ -26,7 +26,7 @@ To build a new version of TinyTeX:
 
 ## How to install
 
-    wget https://nexus.example.com/repository/snapshots/.../tinytex.rpm
+    wget https://nexus.example.com/repository/.../tinytex.rpm
     rpm -U tinytex.rpm
 
 ## Configuring access to the CTAN repository
